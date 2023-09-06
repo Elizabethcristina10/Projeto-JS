@@ -117,5 +117,5 @@ editForm.addEventListener("submit", (e) => {
 
     toggleForm()
 
-})
+});
 
